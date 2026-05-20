@@ -59,10 +59,6 @@
 | 2025 | Camfil × ASHRAE UM Case Study | [QuadSpray](#) | Team Leader | Ansys CFD, Filter Housing Optimization (+30% efficiency) | **2nd Runner-Up** |
 | 2025 | Monash Sustainable Urban Revival | [KL Nexus](#) | Lead Researcher | Quantitative Analysis, Carbon Modeling (-25%) | **1st Runner-Up** |
 | 2025 | Integrated Design Project (UM) | [PharmGuard](#) | Team Lead, Hardware & AI | ESP32, Dual-Camera CV, Biometric Auth, Telemetry | Ongoing |
-| 2025 | Mechanical Design (UM) | [Spur Gear Speed Reducer](#) | Design Engineer | SolidWorks, FEA (FoS 17.59 @ 20 Nm) | Academic |
-| 2025 | 42 KL Piscine | [42-Piscine-C](#) | Piscine Participant | C, Algorithms, Unix | Top 15% Accepted |
-| 2024 | UM Innovation | [ThermalBuzzCatch](#) | Prototype Lead | ESP32, FMEA/DFMA | KKM Certified |
-| 2024 | Fluid Dynamics II (UM) | [Airfoil CFD Analysis](#) | Lead Researcher | Ansys, MATLAB Post-Processing (<2% deviation) | Academic |
 
 ---
 
