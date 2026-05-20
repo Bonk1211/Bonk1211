@@ -12,7 +12,6 @@
 - 🤖 I build at the intersection of **hardware, embedded systems, and AI** — from ESP32 mosquito traps to multi-agent fraud detection on AWS
 - ⚙️ Comfortable in both **SolidWorks FEA / Ansys CFD** and **Python / C++ / cloud AI pipelines**
 - 🏆 **Top 5 of 3000+** at TNGD FinHack 2026 · 1st Runner-Up at UM Startup Investor Challenge · 2nd Runner-Up at Camfil × ASHRAE
-- 🎯 Targeting **July 2026 internship** in equipment design, automation, or applied AI/robotics
 - ⚡ Fun fact: I went from CFD-simulating airfoils to shipping a 5-agent AI scam-prevention system in the same year
 
 ---
