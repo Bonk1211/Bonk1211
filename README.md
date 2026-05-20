@@ -67,7 +67,7 @@
 
 ### 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lim-jia-le&bg_color=141321&color=00F7A3&line=00F7A3&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bonk1211&bg_color=141321&color=00F7A3&line=00F7A3&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 *Last Updated: May 2026*
