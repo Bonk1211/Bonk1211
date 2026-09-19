@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Pursuing **B.Eng. Mechanical Engineering** at **University of Malaya** – CGPA 3.86/4.0 – Expected Graduation: 2027
+- 🎓 Pursuing **B.Eng. Mechanical Engineering** at **University of Malaya** – Expected Graduation: 2027
 - 🤖 I build at the intersection of **hardware, embedded systems, and AI** — from ESP32 mosquito traps to multi-agent fraud detection on AWS
 - ⚙️ Comfortable in both **SolidWorks FEA / Ansys CFD** and **Python / C++ / cloud AI pipelines**
 - 🏆 **Top 5 of 3000+** at TNGD FinHack 2026 · 1st Runner-Up at UM Startup Investor Challenge · 2nd Runner-Up at Camfil × ASHRAE
