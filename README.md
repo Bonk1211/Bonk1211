@@ -56,7 +56,7 @@
 | 2026 | Deriv AI Hackathon 2026 | [WInTheChat](#) | AI / Full-Stack Developer | Multi-Agent Pipeline, LLM Guardrails | Semi-Finalist |
 | 2026 | NUS Hack4Good 2026 | [JomCare](#) | Team Leader | Booking Dashboard, Full-Stack | Top 10 of 120+ |
 | 2025 | UM Startup Investor Challenge | [MyRumah](#) | Team Leader, Full-Stack & AR Developer | React Native, AR, 3D Rendering @ 60 FPS | **1st Runner-Up** |
-| 2025 | Integrated Design Project (UM) | [PharmGuard](#) | Team Lead, Hardware & AI | ESP32, Dual-Camera CV, Biometric Auth, Telemetry | Ongoing |
+| 2026 | Integrated Design Project (UM) | [PharmGuard](#) | Team Lead, Hardware & AI | ESP32, Dual-Camera CV, Biometric Auth, Telemetry | Golden Award |
 
 ---
 
