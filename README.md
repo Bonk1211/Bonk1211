@@ -52,7 +52,7 @@
 
 | Year | Name | Project | Role | Tech Stack | Achievement |
 |------|------|---------|------|------------|-------------|
-| 2026 | ASEAN GeoAI Hackathon | [PharmGuard](#) | Team Lead, ML Engineer | Ensemble Model, LightGBM, Geospatial, Agentic AI, 3D simulation | 1st Runner Up |
+| 2026 | ASEAN GeoAI Hackathon | [TowerRangers](#) | Team Lead, ML Engineer | Ensemble Model, LightGBM, Geospatial, Agentic AI, 3D simulation | 1st Runner Up |
 | 2026 | TNGD FinHack 2026 | [SafeSend](#) | AI / Backend Developer | Isolation Forest, AWS Bedrock, SageMaker, Lambda, 5-Agent Pipeline | **Top 5 of 3000+** |
 | 2026 | Deriv AI Hackathon 2026 | [WInTheChat](#) | AI / Full-Stack Developer | Multi-Agent Pipeline, LLM Guardrails | Semi-Finalist |
 | 2026 | NUS Hack4Good 2026 | [JomCare](#) | Team Leader | Booking Dashboard, Full-Stack | Top 10 of 120+ |
