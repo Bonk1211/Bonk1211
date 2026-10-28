@@ -11,7 +11,7 @@
 - 🎓 Pursuing **B.Eng. Mechanical Engineering** at **University of Malaya** – Expected Graduation: 2027
 - 🤖 I build at the intersection of **hardware, embedded systems, and AI** — from ESP32 mosquito traps to multi-agent fraud detection on AWS
 - ⚙️ Comfortable in both **SolidWorks FEA / Ansys CFD** and **Python / C++ / cloud AI pipelines**
-- 🏆 **Top 5 of 3000+** at TNGD FinHack 2026 · 1st Runner-Up at UM Startup Investor Challenge · 2nd Runner-Up at Camfil × ASHRAE
+- 🏆 **National Champion** at SCA × ASHRAE UM · **Champion** at ESUM × RExharge · **1st Runner-Up** at AI Horizon Solution Challenge & ASEAN GeoAI Hackathon · **Golden Award** for PharmGuard
 - ⚡ Fun fact: I went from CFD-simulating airfoils to shipping a 5-agent AI scam-prevention system in the same year
 
 ---
@@ -52,12 +52,22 @@
 
 | Year | Name | Project | Role | Tech Stack | Achievement |
 |------|------|---------|------|------------|-------------|
-| 2026 | ASEAN GeoAI Hackathon | [TowerRangers](#) | Team Lead, ML Engineer | Ensemble Model, LightGBM, Geospatial, Agentic AI, 3D simulation | 1st Runner Up |
-| 2026 | TNGD FinHack 2026 | [SafeSend](#) | AI / Backend Developer | Isolation Forest, AWS Bedrock, SageMaker, Lambda, 5-Agent Pipeline | **Top 5 of 3000+** |
-| 2026 | Deriv AI Hackathon 2026 | [WInTheChat](#) | AI / Full-Stack Developer | Multi-Agent Pipeline, LLM Guardrails | Semi-Finalist |
-| 2026 | NUS Hack4Good 2026 | [JomCare](#) | Team Leader | Booking Dashboard, Full-Stack | Top 10 of 120+ |
-| 2025 | UM Startup Investor Challenge | [MyRumah](#) | Team Leader, Full-Stack & AR Developer | React Native, AR, 3D Rendering @ 60 FPS | **1st Runner-Up** |
-| 2026 | Integrated Design Project (UM) | [PharmGuard](#) | Team Lead, Hardware & AI | ESP32, Dual-Camera CV, Biometric Auth, Telemetry | Golden Award |
+| 2026 | AI Horizon Solution Challenge | [FlowPilot](https://github.com/Bonk1211/FlowPilot) | Developer | Python, FastAPI, Industrial Defect Investigation | **1st Runner-Up** |
+| 2026 | SCA × ASHRAE UM Case Study & Pitching Competition | [ChillValve](https://github.com/Bonk1211/SCA-ChillValve) | Embedded Software Developer | HVAC Control Simulation, Anomaly Detection, Telemetry | **National Champion** |
+| 2026 | ESUM × RExharge Case Study Competition | [RExharge — Smart Solar Rooftop Simulator](https://github.com/Bonk1211/Rexharge-SSRS) | Team Lead | 3D Roof Reconstruction, PV Layout, Energy-Yield Modelling | **Champion** |
+| 2026 | Integrated Design Project (UM) | [PharmGuard](https://github.com/Bonk1211/IDP_PharmGuard) | Team Lead, Hardware & AI | Raspberry Pi, Stepper-Motor Control, Computer Vision, Telemetry | **Golden Award** |
+| 2026 | ASEAN GeoAI Hackathon | [TowerRangers](https://github.com/Bonk1211/ASEAN-GeoAI-Hackathon-TowerRangers) | Team Lead, ML Engineer | LightGBM, Geospatial Analysis, Maintenance Planning | **1st Runner-Up** |
+| 2026 | NexHack | [InclusionScope](https://github.com/Bonk1211/NexHack-InclusionScope) | Developer | LangGraph, Playwright, axe-core, Accessibility Testing | **Top 4** |
+| 2026 | Codex Community KL Hackathon | [TrendLah](https://github.com/Bonk1211/CodexCommunityHackathon-trendlah) | Contributor | Google Trends, Gemini, Research Automation | **4th Runner-Up · Best Project Built with Databricks** |
+| 2026 | TNGD FinHack | [SafeSend](https://github.com/Bonk1211/SafeSend-TnGD-FinHack-2026) | AI / Backend Developer | Isolation Forest, AWS Bedrock, SageMaker, Lambda, Multi-Agent Pipeline | **Top 5 Finalist — selected from 3,000+ applications** |
+| 2026 | Deriv AI Hackathon | [WInTheChat](https://github.com/Bonk1211/WInTheChat-DerivHackathon2026) | AI / Full-Stack Developer | LangGraph, Multi-Agent Pipeline, LLM Guardrails | **Semi-Finalist** |
+| 2026 | NUS Hack4Good | [JomCare](https://github.com/kimhongzhang323/HolySheet) | Team Leader | Accessible Booking Dashboard, Full-Stack | **6th Place — Top 10 of 120+ teams** |
+| 2025 | UM Startup Investor Challenge | [MyRumah](https://github.com/kimhongzhang323/MyRumah) | Team Leader, Full-Stack & AR Developer | React Native, AR, 3D Visualisation | **1st Runner-Up** |
+| 2025 | Camfil × ASHRAE UM Case Study Competition | [QuadSpray](https://www.canva.com/design/DAG8sCgEG_Y/2GpLfWZoy55ZCIAmwm0MtA/view) | Team Leader | CAD, Mechanical Design, Flow Simulation | **2nd Runner-Up** |
+| 2025 | Sustainable Urban Revival Challenge | [KL Nexus](https://www.canva.com/design/DAG6eFDy4go/6bP09jAbLYRneB_KnsVMOA/edit) | Lead Researcher | Cost Analysis, Feasibility Research, Sustainable Infrastructure | **1st Runner-Up** |
+
+**Additional recognition:** ThermalBuzzCatch, an ESP32 smart trap, received innovation recognition from Ministry of Health (KKM) officers in 2025.
+
 
 ---
 
@@ -69,7 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bonk1211&bg_color=141321&color=00F7A3&line=00F7A3&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-*Last Updated: May 2026*
+*Last Updated: October 2026*
 
 ---
 
