@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jia Le</h1>
-<h3 align="center">⚙️ Mechanical Engineering Student | Embedded Systems & AI Builder | Hackathon Engineer</h3>
+<h3 align="center">⚙️ Mechanical Engineering Student | Embedded Systems & AI Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F7A3&center=true&vCenter=true&width=500&lines=Designing+Machines+That+Think;Embedded+Systems+%2B+Edge+AI;Simulation-Driven+Engineering;From+CAD+to+Code" alt="Typing SVG" />
